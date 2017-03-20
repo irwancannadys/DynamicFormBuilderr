@@ -4,6 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.domikado.dynamicform.Form2">
+    tools:context="com.domikado.dynamicformbuilder.Form2">
 
 </android.support.constraint.ConstraintLayout>

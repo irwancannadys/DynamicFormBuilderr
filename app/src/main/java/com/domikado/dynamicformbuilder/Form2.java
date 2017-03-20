@@ -1,4 +1,4 @@
-package com.domikado.dynamicform;
+package com.domikado.dynamicformbuilder;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
